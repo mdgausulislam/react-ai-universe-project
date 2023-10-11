@@ -11,6 +11,8 @@ const App = () => {
       {/* <Button>See More</Button> */}
 
       <Cart></Cart>
+      <Button>See More</Button>
+
     </div>
   );
 };
