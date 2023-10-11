@@ -2,8 +2,8 @@ import React from 'react';
 
 const Button = ({children}) => {
     return (
-        <div>
-            <button className='btn btn-error'></button>
+        <div className='text-center'>
+            <button className='btn btn-error text-white'>{children}</button>
         </div>
     );
 };
